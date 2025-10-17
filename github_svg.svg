@@ -7,7 +7,7 @@
  <defs>
      @font-face {
   font-family: 'Born2bSportyV2';
-  src: url('https://raw.githubusercontent.com/39Natsu/39Natsu/Font/Born2bSportyV2.woff') format('woff');
+  src: url('https://github.com/39Natsu/39Natsu/blob/main/Font/Born2bSportyV2.woff') format('woff');
 }
     </style>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -84,6 +84,7 @@
     </text>
 
 </svg>
+
 
 
 
