@@ -5,11 +5,12 @@
     style='background-color: #00000000;'
     width='380px' height='50px'>
      <style>
-     @font-face {
-  font-family: 'Born2bSportyV2';
-  src: url('https://raw.githubusercontent.com/39Natsu/39Natsu/main/Font/Born2bSportyV2.woff') format('woff');
-}
-    </style>
+  @import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+  text {
+    font-family: 'Jersey 10', sans-serif;
+  }
+</style>
  <defs>
      
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -86,6 +87,7 @@
     </text>
 
 </svg>
+
 
 
 
