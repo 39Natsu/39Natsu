@@ -4,9 +4,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://instagram.com/0xn4tsu/"><img width="33px" height="33px" alt="Instagram" title="Instragram" src="https://i.imgur.com/s3Rqm8b.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Natssuu__"><img width="37px" alt="X" title="X" src="https://i.imgur.com/F7MeL26.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/365643568871899146"><img width="35px" alt="Discord" title="Discord" src="https://i.imgur.com/6ZwqhyN.png"/></a>
+  <a href="https://instagram.com/0xn4tsu/" target="_blank"><img width="33px" height="33px" alt="Instagram" title="Instragram" src="https://i.imgur.com/s3Rqm8b.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/Natssuu__" target="_blank"><img width="37px" alt="X" title="X" src="https://i.imgur.com/F7MeL26.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/365643568871899146" target="_blank"><img width="35px" alt="Discord" title="Discord" src="https://i.imgur.com/6ZwqhyN.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
