@@ -1,9 +1,6 @@
 
 <p align="center">
-  <!-- Typing -->
-  <a href="">
-    <img src="https://raw.githubusercontent.com/39Natsu/39Natsu/4ffa10c6b58a8ef824661f31fc097a7feedc5e1e/github_svg.svg" /></a>
-</p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&pause=1000&color=D0A2FF&background=49B8FF00&center=true&width=500&lines=Hey+there!+I'm+Natsu.+(%E2%80%A2%E2%97%A1%E2%80%A2)+%2F;I'm+a+Cloud+Engineer%2C+currently+learning+Python.;Feel+free+to+look+around.+(%E2%94%80%E2%80%BF%E2%80%BF%E2%94%80)" alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 <p align="center">
